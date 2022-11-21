@@ -21,7 +21,7 @@ Looking for an opportunity that allows me to give full play to my skills
 
 
 <!---
-animesh9835/animesh9835 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+animesh9835/Profile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <br>
